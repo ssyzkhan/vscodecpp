@@ -13,7 +13,7 @@ public:
 };
 int main(int argc, char const *argv[])
 {
-    cout << "Please enter two numbers: " << endl;
+    cout << "Plz enter two numbers: " << endl;
     int x, y;
     cin >> x >> y;
     Calculator c;

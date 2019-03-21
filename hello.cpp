@@ -35,7 +35,7 @@ void Calculator::PrimeGenerator(int x, int y){
         }
         if (prime == true)
         {
-            cout << i << endl;
+            cout << i << " ";
         }
     }
 }
